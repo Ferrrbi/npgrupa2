@@ -26,7 +26,7 @@ extern void dodawanie();
     switch(wybor)
     {
         case 1:dodawanie();
-
+        case 2:odejmowanie();
 
 
     }
