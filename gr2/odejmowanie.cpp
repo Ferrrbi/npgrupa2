@@ -2,11 +2,11 @@
 
 using namespace std;
 
-void dodawanie()
+void odejmowanie()
 {
     extern int x;
     extern int y;
 
-    cout<<x+y;
+    cout<<x-y;
 
 }
