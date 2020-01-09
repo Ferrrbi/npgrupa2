@@ -8,6 +8,7 @@ int main()
 {
 int wybor;
 extern void dodawanie();
+extern void odejmowanie();
 
 
     cout << "Podaj liczbe pierwsza: ";
