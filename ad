@@ -1,0 +1,30 @@
+[33mcommit 3730cc17281ceaf689700a4efdc539fb180fe7ea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtesting[m[33m)[m
+Author: Ferrrbi <59599654+Ferrrbi@users.noreply.github.com>
+Date:   Thu Jan 9 14:26:55 2020 +0100
+
+    Delete kubacwel
+
+[33mcommit 28fb057133957f7f84b60c9456fa7a70f7a0fe81[m
+Merge: ac72e2f 00fa694
+Author: Filip <filip.gorczyca141@gmail.com>
+Date:   Thu Jan 9 14:14:21 2020 +0100
+
+    Merge branch 'master' of https://github.com/Ferrrbi/npgrupa2
+
+[33mcommit 00fa694f3acf5b0238ed0f43b05ad98f57f7cddb[m
+Author: Ferrrbi <59599654+Ferrrbi@users.noreply.github.com>
+Date:   Thu Jan 9 14:02:24 2020 +0100
+
+    Create kubacwel
+
+[33mcommit ac72e2fa5cea22780dd98b78907a6d29441c9260[m
+Author: Filip <filip.gorczyca141@gmail.com>
+Date:   Thu Jan 9 13:25:59 2020 +0100
+
+    Plik main
+
+[33mcommit 5c84bc5265ddde3ce9ea5b01f0b823028edd8415[m
+Author: Ferrrbi <59599654+Ferrrbi@users.noreply.github.com>
+Date:   Thu Jan 9 12:28:25 2020 +0100
+
+    Initial commit
