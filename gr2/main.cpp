@@ -16,7 +16,7 @@ extern void dzielenie();
     cin >> x;
     cout << "Podaj liczbe druga: ";
     cin >> y;
-    cout<<"Podale liczbe "<< x << " oraz " << y << endl;
+    cout<<"Podale liczbe "<< x << " oraz " << y << endl; // commit
 
 
     cout<<"wybierz operacje"<<endl;
