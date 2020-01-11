@@ -6,7 +6,7 @@ void dzielenie()
     extern int x;
     extern int y;
 
-    cout<<x/a;
+    cout<<"Iloraz liczb " << x " i " << y << " wynosi " << x/y;
 
 }
 
