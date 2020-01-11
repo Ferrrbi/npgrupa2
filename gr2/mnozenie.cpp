@@ -7,6 +7,6 @@ void mnozenie()
     extern int x;
     extern int y;
 
-    cout<<x*y;
+    cout<<"Iloczyn liczb " << x <<" i " << y << " wynosi " << x*y;
 
 }
