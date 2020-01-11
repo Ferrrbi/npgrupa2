@@ -9,13 +9,15 @@ int main()
 int wybor;
 extern void dodawanie();
 extern void odejmowanie();
+extern void dzielenie();
+extern void mnozenie();
 
 
     cout << "Podaj liczbe pierwsza: ";
     cin >> x;
     cout << "Podaj liczbe druga: ";
     cin >> y;
-    cout<<"Podale liczbe "<< x << " oraz " << y << endl;
+    cout<<"Podale liczbe "<< x << " oraz " << y << endl; // commit
 
 
     cout<<"wybierz operacje"<<endl;
@@ -28,6 +30,9 @@ extern void odejmowanie();
     {
         case 1:dodawanie();
         case 2:odejmowanie();
+        case 3:mnozenie();
+        case 4:dzielenie();
+      
 
 
     }
