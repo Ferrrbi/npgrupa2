@@ -10,6 +10,7 @@ int wybor;
 extern void dodawanie();
 extern void odejmowanie();
 extern void dzielenie();
+extern void mnozenie();
 
 
     cout << "Podaj liczbe pierwsza: ";
@@ -29,7 +30,9 @@ extern void dzielenie();
     {
         case 1:dodawanie();
         case 2:odejmowanie();
+        case 3:mnozenie();
         case 4:dzielenie();
+      
 
 
     }
